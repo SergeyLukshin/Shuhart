@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.597,C:\Users\Adoon\Documents\RAD Studio\Projects\Project1.dproj=E:\Личное\Работа\Сергей\Программинг\Образцов\DevExpressExample.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,C:\Users\Adoon\Desktop\Shuhart\WordClass.pas=C:\Users\Adoon\Desktop\Shuhart\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,=D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.633,=C:\Users\Adoon\Desktop\Shuhart\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\LoginForm.pas=D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\LoginForm.dfm=D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,C:\Users\Adoon\Documents\RAD Studio\Projects\Unit1.dfm=E:\Личное\Работа\Сергей\Программинг\Образцов\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\AboutForm.pas=D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\AboutForm.dfm=D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,=D:\Sergey\Home Sergey\Программинг\Образцов\Shuhart\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,C:\Users\Adoon\Documents\RAD Studio\Projects\Unit1.pas=E:\Личное\Работа\Сергей\Программинг\Образцов\MainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,=C:\Users\Adoon\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
